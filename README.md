@@ -23,3 +23,4 @@ Sąrašai implementuoti dviem būdais:
 
 * Padarytas kodo refactoring'as: struktūros ir funkcojos yra perkelti į jiems atitinkamus header ir source failus.
 * Imprelentuotas exception handling. Dabar atidarant failą, jo egzistavimo patikra panaudoja išimčių valdymą.
+
