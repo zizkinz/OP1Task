@@ -16,6 +16,8 @@
 #include <ctime>
 #include <vector>
 
+//#include "studentas.h"
+
 using std::getline;
 using std::ifstream;
 using std::cout;
@@ -27,5 +29,5 @@ using std::left;
 using std::setprecision;
 using std::endl;
 using std::vector;
-
+using std::fixed;
 

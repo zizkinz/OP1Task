@@ -18,3 +18,9 @@ Sąrašai implementuoti dviem būdais:
 * Rezultatuose dabar galutinis balas yra skaičiuojamas ir pagal medianą, ir pagal vidurkį.
 
 ***Nuo šios versijos visi sąrašai yra implementuoti tik naudojant std::vector konteinerius.***
+
+# Versija V0.3:
+
+* Padarytas kodo refactoring'as: struktūros ir funkcojos yra perkelti į jiems atitinkamus header ir source failus.
+* Imprelentuotas exception handling. Dabar atidarant failą, jo egzistavimo patikra panaudoja išimčių valdymą.
+
