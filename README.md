@@ -8,7 +8,11 @@ Sąrašai implementuoti dviem būdais:
 
 * Faile *main.cpp* nauduojant tik ***std::vector***.
 
+
 * Faile *DynamicArray.cpp* naudojant tik ***dinaminius masyvus***.
+
+* Faite *DynamicArray.cpp* naudojant tik ***dinaminius masyvus***.
+
 
 # Versija V0.2:
 
@@ -23,6 +27,7 @@ Sąrašai implementuoti dviem būdais:
 
 * Padarytas kodo refactoring'as: struktūros ir funkcojos yra perkelti į jiems atitinkamus header ir source failus.
 * Imprelentuotas exception handling. Dabar atidarant failą, jo egzistavimo patikra panaudoja išimčių valdymą.
+
 
 # Versija V0.4:
 
