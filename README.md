@@ -78,3 +78,28 @@ Testuojant 10 000 000 įrašų,  _**vector**_ jau pasirode geriau, negu _**list*
 |CPU|RAM|Drive|
 |---|---|---|
 |Apple M1 3.2 GHz|8 GB LPDDR4X|NVMe SSD|
+
+
+# Versija V1.0:
+
+* Padaryti skirtingų algortimtų ir rušavimo strategijų greitaveikos testai.
+
+***išvada:***
+
+*Geriausiai šiam uždaviniui tinka vector duomenų saugojimo tipas kartu su dviejų naujų konteinerių strategija*
+
+
+![alt text](https://github.com/zizkinz/OP1Task/blob/14ec3eb0cf18ae58f65eca4dac7e646d40fa412f/test3.png?raw=true)
+
+
+# Naudojimosi instrukcija:
+
+1) Panaudojus "CMakeLists.txt" failą, įdiekite programą.
+
+2) Vykdomojo failo direktorijoje įdėkite testinius failus su pavadinimais
+
+    "1000.txt", "10000.txt", ..., "10000000.txt" ir struktūra:
+    
+    Vardas Pavardė ND1 ... NDn Egzaminas.
+3) Paleiskite programą.
+
